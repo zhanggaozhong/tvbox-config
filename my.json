@@ -1,0 +1,17 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "demo_555",
+      "name": "555影视",
+      "type": 3,
+      "api": "https://www.555dy1.com/api.php/provide/vod/"
+    }
+  ],
+  "parses": [
+    {
+      "name": "默认解析",
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ]
+}
